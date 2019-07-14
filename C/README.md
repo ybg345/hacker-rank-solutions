@@ -17,8 +17,8 @@
 |  Arrays and Strings    |  [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem) <br> _Yet to be Solved_ |
 |  Arrays and Strings    |  [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem) <br> _Yet to be Solved_ |
 |  Arrays and Strings    |  [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem) <br> _Yet to be Solved_ |
-|  Functions    |  [Calculate the Nth term]() |
-|  Functions    |  [Students Marks Sum]() |
+|  Functions    |  [Calculate the Nth term](https://github.com/ybg345/HackerRank/blob/master/C/03_Functions/Calculate%20the%20Nth%20term.c) |
+|  Functions    |  [Students Marks Sum](https://github.com/ybg345/HackerRank/blob/master/C/03_Functions/Students%20Marks%20Sum.c) |
 |  Functions    |  [Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem) <br> _Yet to be Solved_ |
 |  Functions    |  [Variadic functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem) <br> _Yet to be Solved_  |
 |  Functions    |  [Querying the Document](https://www.hackerrank.com/challenges/querying-the-document/problem) <br> _Yet to be Solved_ |
