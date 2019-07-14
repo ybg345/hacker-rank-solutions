@@ -13,12 +13,12 @@
 |  Day 3    |  [Day 3: Arrays](https://github.com/ybg345/HackerRank/blob/master/10%20Days%20of%20Javascript/Day%203%20Arrays.js) |
 |  Day 3    |  [Day 3: Try, Catch, and Finally](https://github.com/ybg345/HackerRank/blob/master/10%20Days%20of%20Javascript/Day%203%20Try%2C%20Catch%2C%20and%20Finally.js) |
 |  Day 3    |  [Day 3: Throw](https://github.com/ybg345/HackerRank/blob/master/10%20Days%20of%20Javascript/Day%203%20Throw.js) |
-|  Day 4    |  [Day 4: Create a Rectangle Object]() |
-|  Day 4    |  [Day 4: Count Objects]() |
-|  Day 4    |  [Day 4: Classes]() |
-|  Day 5    |  [Day 5: Inheritance]() |
-|  Day 5    |  [Day 5: Template Literals]() |
-|  Day 5    |  [Day 5: Arrow Functions]() |
+|  Day 4    |  [Day 4: Create a Rectangle Object](https://github.com/ybg345/HackerRank/blob/master/10%20Days%20of%20Javascript/Day%204%20Create%20a%20Rectangle%20Object.js) |
+|  Day 4    |  [Day 4: Count Objects](https://github.com/ybg345/HackerRank/blob/master/10%20Days%20of%20Javascript/Day%204%20Count%20Objects.js) |
+|  Day 4    |  [Day 4: Classes](https://github.com/ybg345/HackerRank/blob/master/10%20Days%20of%20Javascript/Day%204%20Classes.js) |
+|  Day 5    |  [Day 5: Inheritance](https://github.com/ybg345/HackerRank/blob/master/10%20Days%20of%20Javascript/Day%205%20Inheritance.js) |
+|  Day 5    |  [Day 5: Template Literals](https://github.com/ybg345/HackerRank/blob/master/10%20Days%20of%20Javascript/Day%205%20Template%20Literals.js) |
+|  Day 5    |  [Day 5: Arrow Functions](https://github.com/ybg345/HackerRank/blob/master/10%20Days%20of%20Javascript/Day%205%20Arrow%20Functions.js) |
 |  Day 6    |  [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem) <br> __Unsolved__ |
 |  Day 6    |  [Day 6: JavaScript Dates](https://github.com/ybg345/HackerRank/blob/master/10%20Days%20of%20Javascript/Day%206%20JavaScript%20Dates.js) |
 |  Day 7    |  [Day 7: Regular Expressions I](https://github.com/ybg345/HackerRank/blob/master/10%20Days%20of%20Javascript/Day%207%20Regular%20Expressions%20I.js) |
