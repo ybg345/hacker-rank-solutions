@@ -1,1 +1,1 @@
-### For this __`Databases`__ section, please refer to the markdown file namely - ["__Questions and Solutions of Databases Section__"](https://github.com/ybg345/HackerRank/blob/master/Databases/Questions%20and%20Solutions%20of%20Databases%20Section.md) for relevant problem statements and solutions to those problems.
+#### For this section, please refer to the markdown file namely - ["__Databases Section Q&A.md__"](https://github.com/ybg345/HackerRank/blob/master/Databases/Databases%20Section%20Q%26A.md) for relevant problem statements and solutions to those problems. 
